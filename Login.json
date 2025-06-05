@@ -1,0 +1,12 @@
+[
+  {
+    "user": "njir",
+    "pass": "indo",
+    "vip": true
+  },
+  {
+    "user": "pro",
+    "pass": "peler",
+    "vip": false
+  }
+]
